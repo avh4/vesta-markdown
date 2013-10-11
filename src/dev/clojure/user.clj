@@ -5,4 +5,5 @@
             [clojure.repl :refer :all]
             [clojure.test :as test]
             [clojure.tools.namespace.repl :refer (refresh refresh-all)]
-            [clojure.stacktrace :refer (e print-stack-trace print-cause-trace)]))
+            [clojure.stacktrace :refer (e print-stack-trace print-cause-trace)]
+            [midje.repl :refer :all]))
