@@ -1,3 +1,3 @@
-# Introduction to {{ project }}
+# Introduction to vesta-markdown
 
 TODO: write [great documentation](http://jacobian.org/writing/great-documentation/what-to-write/)

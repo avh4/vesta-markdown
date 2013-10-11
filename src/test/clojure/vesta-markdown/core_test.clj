@@ -1,5 +1,5 @@
-(ns {{ project }}.core-test
-  (:use [{{ project }}.core])
+(ns vesta-markdown.core-test
+  (:use [vesta-markdown.core])
   (:use [midje.sweet]))
 
 (facts "about failing tests"
